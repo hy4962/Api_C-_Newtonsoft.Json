@@ -1,0 +1,13 @@
+D:\C\C#\test\API\API\bin\Debug\API.exe.config
+D:\C\C#\test\API\API\bin\Debug\API.exe
+D:\C\C#\test\API\API\bin\Debug\API.pdb
+D:\C\C#\test\API\API\bin\Debug\Newtonsoft.Json.dll
+D:\C\C#\test\API\API\bin\Debug\Newtonsoft.Json.xml
+D:\C\C#\test\API\API\obj\Debug\API.csproj.AssemblyReference.cache
+D:\C\C#\test\API\API\obj\Debug\API.Form1.resources
+D:\C\C#\test\API\API\obj\Debug\API.Properties.Resources.resources
+D:\C\C#\test\API\API\obj\Debug\API.csproj.GenerateResource.cache
+D:\C\C#\test\API\API\obj\Debug\API.csproj.CoreCompileInputs.cache
+D:\C\C#\test\API\API\obj\Debug\API.csproj.Up2Date
+D:\C\C#\test\API\API\obj\Debug\API.exe
+D:\C\C#\test\API\API\obj\Debug\API.pdb
